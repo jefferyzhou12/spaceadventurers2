@@ -18,6 +18,10 @@ p+p {
     margin-top: 15px;
 }
 
+button {
+    color: black;
+}
+
 /* Background Image */
 #background-img-container {
     display: grid;
@@ -312,12 +316,16 @@ footer li a:active {
         grid-template: repeat(4, 1fr) / 1fr;
     }
 
+    footer {
+        height: 75px;
+    }
+
     footer img {
         display: none;
     }
 
     footer li a {
-        font-size: 1.5rem;
+        font-size: 1.30rem;
     }
 
     footer li+li::before {
