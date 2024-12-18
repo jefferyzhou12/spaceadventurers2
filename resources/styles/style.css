@@ -258,7 +258,7 @@ footer li a {
 footer li+li::before {
     color: white;
     content: "|";
-    font-size: 20px;
+    font-size: 15px;
 }
 
 footer li a:hover,
