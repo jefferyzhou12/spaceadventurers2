@@ -15,7 +15,7 @@ Coding Languages:
 Web Hosting:
 + GitHub
 
-Tools:
+Softwares:
 + VS Code (Visual Studio Code)
 + BASH (Bourne-Again SHell)
 ## Collaborators
